@@ -1,3 +1,5 @@
+#!/bin/bash
+
 1. Using sim.log, print the line numbers of all ERROR messages.
 grep -n "ERROR" sim.log
 // 4,7 was the output
